@@ -7,8 +7,8 @@ Este repositório contém a monografia e os materiais complementares do trabalho
 * 📄 **`TCC.pdf`**: Documento completo da monografia.
 * 📊 **`apresentaçao_slides.pdf`**: Deck de slides utilizado para a defesa e exposição do trabalho.
 * 📂 **`gráficos/`**: Diretório contendo as exportações visuais e diagnósticos gerados na modelagem:
-    * `Series_Temporais`: Comportamento histórico e estacionário das variáveis macroeconômicas.
-    * `Raizes_Inversas_Polinomio`: Teste de estabilidade matemática atestando a robustez dos modelos VAR.
+    * `Series Temporais`: Comportamento histórico e estacionário das variáveis macroeconômicas.
+    * `Raizes Inversas_Polinomio`: Teste de estabilidade matemática atestando a robustez dos modelos VAR.
     * `FIR` (Funções Impulso-Resposta): Gráficos ilustrando a dinâmica e a resposta temporal dos hiatos a choques ortogonalizados.
     * `Decomposicao de Variância`: Análise de endogeneidade, mostrando o percentual da variância do erro de previsão explicado pelas próprias variáveis ao longo do tempo.
 
